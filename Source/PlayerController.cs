@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
     {
         rg = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        Debug.Log("1234 ua Zalo?!");
 
     }
 
